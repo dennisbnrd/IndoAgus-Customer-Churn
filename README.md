@@ -61,5 +61,4 @@ Dengan memanfaatkan data historis transaksi dan perilaku pelanggan, IndoAgus Sto
 - Ekspansi model ke kategori produk lain.
 
 ---
-**Author**: Tim Data Science – IndoAgus Store  
-**Tanggal**: Agustus 2025
+
